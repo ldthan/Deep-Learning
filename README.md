@@ -11,3 +11,7 @@
 ## CNN
 
 ## LSTM
+
+## Autoencoder
+
+## GAN
